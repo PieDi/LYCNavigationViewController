@@ -9,14 +9,14 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "CY-CustomerServe/MainBase/NavigationBar/LYCAddition.swift"
-            timestampString = "544522057.607264"
+            filePath = "CY-CustomerServe/MainBase/NavigationController/NavigationAnimation.swift"
+            timestampString = "544524518.373876"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "687"
-            endingLineNumber = "687"
-            landmarkName = "pushNeedDisplay()"
-            landmarkType = "7">
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -25,46 +25,14 @@
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "CY-CustomerServe/MainBase/NavigationBar/LYCAddition.swift"
-            timestampString = "544522057.607637"
+            filePath = "CY-CustomerServe/MainBase/NavigationController/NavigationAnimation.swift"
+            timestampString = "544524518.374508"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "702"
-            endingLineNumber = "702"
-            landmarkName = "popNeedDisplay()"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(extension in CY_CustomerServe):__ObjC.UINavigationController.popNeedDisplay() -&gt; ()"
-                  moduleName = "CY-CustomerServe"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/lyc/Desktop/YXDemo/CY-CustomerServe/CY-CustomerServe/MainBase/NavigationBar/LYCAddition.swift"
-                  timestampString = "544521351.1799639"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "702"
-                  endingLineNumber = "702"
-                  offsetFromSymbolStart = "552">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "(extension in CY_CustomerServe):__ObjC.UINavigationController.popNeedDisplay() -&gt; ()"
-                  moduleName = "CY-CustomerServe"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/lyc/Desktop/YXDemo/CY-CustomerServe/CY-CustomerServe/MainBase/NavigationBar/LYCAddition.swift"
-                  timestampString = "544521351.182855"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "702"
-                  endingLineNumber = "702"
-                  offsetFromSymbolStart = "1416">
-               </Location>
-            </Locations>
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

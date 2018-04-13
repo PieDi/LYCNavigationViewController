@@ -154,7 +154,6 @@ class NavigationAnimation: NSObject,UIViewControllerAnimatedTransitioning {
         }
         
         if self.navigationOperation == UINavigationControllerOperation.pop {
-            self.screenShotArray.append(screenImg)
             
             fromViewStartFrame.origin.x = 0
             containerView.addSubview(toView)

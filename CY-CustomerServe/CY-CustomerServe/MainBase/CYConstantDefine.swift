@@ -11,8 +11,7 @@ import UIKit
 
 let ScreenWidth = UIScreen.main.bounds.size.width
 let ScreenHeight = UIScreen.main.bounds.size.height
-let PopDuration = 0.12    // 记录pop 动画时间
-let PushDuration = 0.12   // 记录push 动画时间
+
 
 
 
